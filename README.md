@@ -1,5 +1,13 @@
 # MinionLab MCP Server
 
+## Overview
+
+MinionLab is a decentralized network of autonomous AI agents—called “Minions”—that run on user devices to mine real-time data from the internet. These Minions replicate human-like browsing behavior using a customized browser runtime, enabling advanced data collection, automation, and AI-driven exploration. In return, device owners earn $MINION tokens for supporting the network and powering these autonomous data-mining agents.
+
+MinionLab was designed to solve the growing gap between AI’s demand for high-quality data and the centralized, inefficient scraping solutions that still dominate the market today. By harnessing idle computing resources, MinionLab provides a more resilient, cost-effective, and scalable approach to data mining—while also pushing the AI industry closer to decentralized, user-driven development.
+
+The $MINION token and user community are built on Solana.
+
 ## Get Started
 
 1. Run `npm install` to install the necessary dependencies, then run `npm run build` to get `dist/src/index.js`.
