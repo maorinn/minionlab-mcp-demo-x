@@ -1,0 +1,18 @@
+[package]
+name = "minionlab_task_program"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "minionlab_task_program"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+borsh = "0.10.3"
+borsh-derive = "0.10.3"
+solana-program = "1.18.12"
+thiserror = "1.0"
